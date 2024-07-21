@@ -55,3 +55,7 @@ img {
 .bookmark-button {
     margin-left: auto;
 }
+
+.text-body {
+    text-align: justify;
+}
