@@ -1,30 +1,30 @@
-body{
+body {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: normal;
     background-color: black;
 }
 
-.post{
+.post {
     width: 400px;
     background-color: white;
 }
 
-img{
+img {
     width: 400px;
 }
 
-.post-header{
+.post-header {
     display: flex;
     padding-top: 5px;
     padding-bottom: 5px;
-    }
+}
 
-.post-icons{
+.post-icons {
     display: flex;
 }
 
-.html5-icon{
+.html5-icon {
     font-size: 30px;
     display: flex;
     align-items: center;
@@ -32,7 +32,7 @@ img{
     margin-left: 10px;
 }
 
-.three-dots{
+.three-dots {
     font-size: 25px;
     margin-left: auto;
     margin-right: 10px;
@@ -40,6 +40,18 @@ img{
     align-items: center;
 }
 
-.post-icons{
+.post-icons {
     font-size: 25px;
+}
+
+.like-button {
+    padding-right: 5px;
+}
+
+.comment-button {
+    padding-right: 5px;
+}
+
+.bookmark-button {
+    margin-left: auto;
 }
