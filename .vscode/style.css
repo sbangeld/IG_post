@@ -3,6 +3,8 @@ body {
     font-weight: 300;
     font-style: normal;
     background-color: black;
+    display: flex;
+    justify-content: center;
 }
 
 .post {
