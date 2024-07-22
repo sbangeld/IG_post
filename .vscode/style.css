@@ -48,6 +48,10 @@ img {
     padding-right: 5px;
 }
 
+.post-icons [class$="button"]:hover {
+    font-size: 110%;
+}
+
 .comment-button {
     padding-right: 5px;
 }
