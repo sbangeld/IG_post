@@ -45,15 +45,15 @@ img {
 
 .post-icons {
     font-size: 25px;
+
+    & [class$="button"]:hover {
+        font-size: 110%;
+    }
 }
 
 .like-button {
     padding-right: 5px;
     width: 27px;
-}
-
-.post-icons [class$="button"]:hover {
-    font-size: 110%;
 }
 
 .comment-button {
